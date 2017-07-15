@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+}
+
+p.dlink {
+  font-size: 16px;
+  font-weight: normal;
+  color: Aquamarine;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+p.subT {
+  font-size: 21px;
+  font-weight: normal;
+  color: Gray;
+}
+
+.RtAlign {
+  text-align: right;
+}
